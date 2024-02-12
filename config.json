@@ -5,7 +5,7 @@
   "no-mdns": true,
   "validator": true,
   "unsafe-rpc-external": true,
-  "offchain-worker": "never",
+  "offchain-worker": "when-authority",
   "rpc-methods": "unsafe",
   "log": "info,runtime=info",
   "port": 30333,
